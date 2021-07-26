@@ -1,0 +1,11 @@
+{
+    "name": "Swedish",
+    "nativeName": "Svenska",
+    "code": "swe",
+    "direction": "ltr",
+    "translations":
+        {
+            "about": "Om",
+            "about_us": "Om oss"
+        }
+}

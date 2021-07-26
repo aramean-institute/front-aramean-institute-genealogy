@@ -1,0 +1,11 @@
+{
+    "name": "English",
+    "nativeName": "English",
+    "code": "eng",
+    "direction": "ltr",
+    "translations":
+        {
+            "about": "About",
+            "about_us": "About Us"
+        }
+    }
